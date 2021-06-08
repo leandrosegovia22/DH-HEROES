@@ -1,0 +1,45 @@
+body {
+    background-color: rgba(0, 0, 0, 0.753);   
+}
+
+
+h1 { 
+    color: rgb(255, 255, 255);
+    font-size: 70px;
+    text-align: center;    
+}
+
+
+h3 { 
+    color: lightyellow;
+    font-size: 40px;
+    text-align: center;
+
+}
+
+
+
+
+.imgindex { 
+    border-radius: 100px;
+    right: 100px;
+    padding:60px;
+    margin-left: 350px;
+    
+}
+
+.img {
+    border-radius: 60px;
+    padding-bottom: 40px;
+    margin-left: 350px;
+    margin-top: 30px;
+
+}
+
+
+h5 {
+    color: rgb(250, 240, 230);
+    font-size: 20px;
+    text-align: center;
+    line-height: 30px;
+}
